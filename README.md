@@ -1,1 +1,1 @@
-# academiadigital
+# digitalacademy
